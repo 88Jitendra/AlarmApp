@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string-array name="Alarm_array">
+        <item>Chooose ringtone according you</item>
+        <item>Amazing</item>
+        <item>Car-Lock-Tone</item>
+        <item>Emergency-Alert</item>
+        <item>Fog-Horn</item>
+        <item>GTA-5-Alarm</item>
+        <item>Gothic-Piano-Instrumental</item>
+        <item>Like-it-Loud</item>
+        <item>Lounder-Gypsy</item>
+        <item>Phone-Bell-Ringing</item>
+        <item>Think-Lod</item>
+
+    </string-array>
+</resources>
